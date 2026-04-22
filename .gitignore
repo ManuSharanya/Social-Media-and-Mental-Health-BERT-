@@ -1,0 +1,4 @@
+.ipynb_checkpoints/
+distilbert_mental_health/model.safetensors
+.DS_Store
+Thumbs.db

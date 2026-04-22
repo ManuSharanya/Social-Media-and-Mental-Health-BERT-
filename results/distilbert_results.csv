@@ -1,0 +1,2 @@
+Model,CV Macro F1,CV Std,Test Macro F1,Test Acc,AUC-ROC
+DistilBERT (improved),0.7462,0.0031,0.7531,0.7521,0.9043
