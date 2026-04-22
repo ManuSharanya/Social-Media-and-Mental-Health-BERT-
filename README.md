@@ -41,7 +41,7 @@ Social-Media-and-Mental-Health-BERT/
 │   ├── test_train.ipynb              # classical model training and evaluation
 │   ├── test_train_bert.ipynb         # BERT baseline training
 │   ├── training_models.ipynb         # full classical model benchmarking
-│   ├── distilbert.ipynb              # DistilBERT fine-tuning (manual tuning)
+│   ├── distilbert_noAutoHyperparameterTuning.ipynb              # DistilBERT fine-tuning (manual tuning)
 │   └── distilbert_optuna.ipynb       # DistilBERT + Optuna hyperparameter search
 │
 ├── data/
