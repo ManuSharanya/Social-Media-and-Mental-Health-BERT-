@@ -1,6 +1,5 @@
 # Social Media and Mental Health - A Machine Learning Analysis of Reddit Discourse
 
-**Course:** CS 6140 — Machine Learning and Pattern Recognition, Northeastern University  
 **Authors:** Manu Sharanya Bhadriraju, Ardhra Ann Denny
 
 ---
